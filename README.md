@@ -21,6 +21,7 @@ This is a simple Flask web application that greets the user. It utilizes the Fla
 
 Before running the code, ensure that you have Flask installed. You can install it using:
 
+
 pip install Flask
 
 
@@ -28,7 +29,9 @@ To run the application, set the Flask environment variables and execute the scri
 
 
 set FLASK_APP=app_name.py
+
 set FLASK_ENV=development
+
 flask run
 
 
